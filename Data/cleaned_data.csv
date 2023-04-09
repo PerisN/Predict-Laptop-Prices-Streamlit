@@ -1,0 +1,424 @@
+MRP,RAM_Size,RAM_Type,Display,Processor,Storage,OS,Brand
+36990,8,DDR4,14.0,Intel Core i3,256 GB SSD,Windows,Lenovo
+39990,8,DDR4,15.6,Intel Core i3,512 GB SSD,Windows,Lenovo
+32990,8,DDR4,15.6,Intel Core i3,512 GB SSD,Windows,ASUS
+49990,8,DDR4,15.6,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,HP
+49990,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,ASUS
+36990,8,DDR4,14.0,Intel Core i3,256 GB SSD,Windows,HP
+38990,8,DDR4,15.6,Intel Core i3,"1 TB HDD, 256 GB SSD",Windows,DELL
+39990,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,RedmiBook
+46990,8,DDR4,14.0,Intel Core i3,256 GB SSD,Windows,realme
+44990,16,DDR4,14.0,AMD Ryzen 7 Quad Core,512 GB SSD,Windows,ASUS
+59990,8,DDR4,15.6,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,HP
+38705,8,DDR4,15.6,AMD Ryzen 5 Quad Core,512 GB SSD,Windows,Lenovo
+32990,8,DDR4,15.6,Intel Core i3,256 GB SSD,Windows,ASUS
+52990,8,DDR4,17.3,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,ASUS
+29990,8,DDR4,15.6,Intel Core i3,256 GB SSD,Windows,acer
+196990,16,DDR5,15.6,AMD Ryzen 9 Octa Core,128 GB SSD,Windows,ASUS
+47990,8,DDR4,15.6,Intel Core i5,"1 TB HDD, 256 GB SSD",Windows,ASUS
+45990,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,ASUS
+47990,8,DDR4,15.6,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,MSI
+85990,16,DDR4,15.6,AMD Ryzen 7 Octa Core,128 GB SSD,Windows,ASUS
+88990,8,DDR4,13.3,M1,256 GB SSD,Mac OS,APPLE
+40990,8,DDR4,14.0,Intel Core i3,512 GB SSD,Windows,HP
+19490,4,LPDDR4,15.6,Intel Celeron Dual Core,"1 TB HDD, 256 GB SSD",DOS,Lenovo
+35590,8,DDR4,15.6,AMD Ryzen 3 Dual Core,512 GB SSD,Windows,Lenovo
+65990,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,HP
+58990,16,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,acer
+24990,8,DDR4,15.6,AMD Ryzen 3 Dual Core,256 GB SSD,Windows,acer
+47990,8,DDR4,15.6,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,acer
+73990,8,DDR4,17.3,AMD Ryzen 7 Octa Core,512 GB SSD,Windows,ASUS
+53490,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,Lenovo
+150990,16,DDR4,15.6,AMD Ryzen 9 Octa Core,128 GB SSD,Windows,ASUS
+51990,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,Lenovo
+66990,16,DDR4,14.0,Intel Core i5,512 GB SSD,Windows,ASUS
+194990,16,DDR5,15.6,AMD Ryzen 9 Octa Core,128 GB SSD,Windows,ASUS
+51990,16,DDR4,15.6,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,acer
+25990,8,DDR4,14.0,AMD Athlon Dual Core,256 GB SSD,Windows,HP
+35990,8,DDR4,15.6,AMD Ryzen 5 Quad Core,512 GB SSD,Windows,acer
+43990,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,ASUS
+44990,8,DDR4,15.6,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,Lenovo
+64490,8,DDR4,15.6,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,Lenovo
+40990,8,DDR4,15.6,Intel Core i3,256 GB SSD,Windows,ASUS
+38990,8,DDR4,14.0,Intel Core i3,512 GB SSD,Windows,ASUS
+58990,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,HP
+59990,8,DDR4,14.0,Intel Evo Core i5,512 GB SSD,Windows,realme
+47990,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,acer
+37499,8,DDR4,15.6,AMD Ryzen 3 Quad Core,512 GB SSD,Windows,HP
+94990,8,DDR4,14.0,AMD Ryzen 9 Octa Core,128 GB SSD,Windows,ASUS
+32990,8,DDR4,15.6,Intel Core i3,512 GB SSD,Windows,ASUS
+23990,4,DDR4,14.0,Intel Celeron Dual Core,256 GB SSD,Windows,ASUS
+48990,16,DDR4,14.0,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,HP
+139990,8,Unified Memory,13.3,M2,512 GB SSD,Mac OS,APPLE
+89990,16,DDR4,15.6,AMD Ryzen 7 Octa Core,512 GB SSD,Windows,ASUS
+59990,8,DDR4,15.6,AMD Ryzen 5 Hexa Core,128 GB SSD,Windows,ASUS
+70990,16,DDR4,15.6,AMD Ryzen 5,512 GB SSD,Windows,DELL
+22990,8,LPDDR4X,14.0,Intel Celeron Quad Core,256 GB SSD,Windows,Infinix
+46990,8,DDR4,15.6,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,HP
+50990,8,DDR4,15.6,Intel Core i5,"1 TB HDD, 256 GB SSD",Windows,ASUS
+28990,8,LPDDR4X,14.0,Intel Core i3,256 GB SSD,Windows,Infinix
+84990,16,DDR4,15.6,Intel Core i7,512 GB SSD,Windows,MSI
+181990,16,Unified Memory,14.2,M1 Pro,512 GB SSD,Mac OS,APPLE
+109990,16,DDR4,15.6,AMD Ryzen 9 Octa Core,128 GB SSD,Windows,MSI
+32990,4,LPDDR4X,14.0,Qualcomm Snapdragon 7c Gen 2,512 GB SSD,Windows,SAMSUNG
+37990,16,LPDDR4X,14.0,Intel Core i5,512 GB SSD,Windows,Infinix
+139990,8,Unified Memory,13.6,M2,512 GB SSD,Mac OS,APPLE
+29990,4,DDR4,15.6,Intel Core i3,256 GB SSD,Windows,Lenovo
+19490,4,DDR4,14.0,Intel Celeron Dual Core,512 GB SSD,Chrome,Lenovo
+73490,8,DDR4,15.6,AMD Ryzen 7 Octa Core,512 GB SSD,Windows,Lenovo
+52990,8,DDR4,15.6,AMD Ryzen 5 Hexa Core,"1 TB HDD, 256 GB SSD",Windows,ASUS
+41890,8,DDR4,15.6,Intel Core i3,512 GB SSD,Windows,HP
+30428,8,DDR4,15.6,Intel Pentium Quad Core,256 GB SSD,Windows,DELL
+34990,8,DDR4,15.6,Intel Core i3,512 GB SSD,Windows,acer
+88990,8,DDR4,13.3,M1,256 GB SSD,Mac OS,APPLE
+65990,8,DDR4,15.6,Intel Core i7,512 GB SSD,Windows,MSI
+33490,8,DDR4,15.6,Intel Core i3,512 GB SSD,Windows,ASUS
+60990,16,DDR4,14.0,Intel Core i5,512 GB SSD,Windows,HP
+59990,16,DDR4,15.6,AMD Ryzen 7 Octa Core,512 GB SSD,Windows,ASUS
+114990,16,DDR4,15.6,Intel Core i7,128 GB SSD,Windows,MSI
+119990,16,DDR4,16.0,Intel Core i7,128 GB SSD,Windows,ASUS
+42990,8,LPDDR4X,15.6,Intel Core i5,512 GB SSD,Windows,Infinix
+89990,16,LPDDR5,15.6,Intel Core i5,512 GB SSD,Windows,ASUS
+79990,8,DDR4,15.6,AMD Ryzen 7 Octa Core,512 GB SSD,Windows,MSI
+70990,8,DDR4,15.6,Intel Core i5,128 GB SSD,Windows,ASUS
+33900,8,DDR4,15.6,Intel Core i3,256 GB SSD,Windows,Lenovo
+52990,16,LPDDR4X,15.6,Intel Core i7,512 GB SSD,Windows,Infinix
+124990,16,DDR4,13.3,M1,512 GB SSD,Mac OS,APPLE
+31990,8,DDR4,15.6,Intel Core i3,256 GB SSD,Windows,RedmiBook
+66990,16,DDR4,15.6,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,acer
+89081,16,DDR4,15.6,AMD Ryzen 7 Octa Core,512 GB SSD,Windows,DELL
+104990,8,DDR4,13.3,M1,512 GB SSD,Mac OS,APPLE
+53490,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,Lenovo
+45990,8,LPDDR4X,14.0,Intel Core i3,256 GB SSD,Windows,ASUS
+45990,8,DDR4,15.6,Intel Core i3,512 GB SSD,Windows,ASUS
+51990,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,MSI
+75990,16,DDR4,15.6,AMD Ryzen 7 Octa Core,512 GB SSD,Windows,HP
+36990,8,DDR4,15.6,Intel Core i3,256 GB SSD,Windows,Lenovo
+78800,16,DDR4,14.0,Intel Core i5,512 GB SSD,Windows,HP
+29390,8,DDR4,15.6,AMD Athlon Dual Core,512 GB SSD,Windows,HP
+30990,8,LPDDR4X,14.0,Intel Core i3,256 GB SSD,Windows,Infinix
+62490,16,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,Lenovo
+89990,16,DDR4,14.0,Intel Core i7,512 GB SSD,Windows,ASUS
+58899,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,HP
+85990,16,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,MSI
+33099,8,DDR4,13.78,AMD Ryzen 3,1 TB HDD,Windows,DELL
+63490,8,DDR4,15.6,Intel Core i5,"1 TB HDD, 256 GB SSD",Windows,Lenovo
+38990,8,DDR4,14.0,AMD Ryzen 5 Quad Core,512 GB SSD,Windows,ASUS
+67990,8,DDR4,16.1,Intel Core i5,512 GB SSD,Windows,HP
+39790,8,DDR4,15.6,Intel Core i3,512 GB SSD,Windows,HP
+241990,16,Unified Memory,16.2,M1 Pro,128 GB SSD,Mac OS,APPLE
+104990,8,DDR4,13.3,M1,512 GB SSD,Mac OS,APPLE
+42190,8,DDR4,14.0,AMD Ryzen 3 Dual Core,512 GB SSD,Windows,DELL
+39990,8,DDR4,14.0,Intel Core i3,512 GB SSD,Windows,ASUS
+99990,16,DDR5,15.6,Intel Core i7,128 GB SSD,Windows,ASUS
+309490,32,Unified Memory,16.2,M1 Max,128 GB SSD,Mac OS,APPLE
+64990,16,DDR4,15.6,Intel Core i5,"1 TB HDD, 256 GB SSD",Windows,ASUS
+85990,16,DDR4,17.3,AMD Ryzen 7 Octa Core,512 GB SSD,Windows,ASUS
+222990,16,Unified Memory,14.2,M1 Pro,128 GB SSD,Mac OS,APPLE
+15990,4,LPDDR4,14.1,Intel Celeron Dual Core,128 GB SSD,DOS,Ultimus
+45900,8,DDR4,15.6,Intel Core i3,"1 TB HDD, 256 GB SSD",Windows,DELL
+79990,16,LPDDR4X,13.3,Intel Core i7,512 GB SSD,Windows,ASUS
+56990,8,DDR4,14.0,Intel Core i5,512 GB SSD,Windows,ASUS
+34990,8,DDR4,15.6,AMD Ryzen 3 Dual Core,256 GB SSD,Windows,DELL
+43580,8,DDR4,15.6,Intel Core i3,512 GB SSD,Windows,DELL
+74990,16,DDR4,13.3,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,Lenovo
+37490,8,DDR4,15.6,Intel Core i3,512 GB SSD,Windows,Lenovo
+20990,4,LPDDR4X,14.0,Intel Celeron Quad Core,128 GB SSD,Windows,Infinix
+109990,16,DDR4,15.6,Intel Core i7,512 GB SSD,Windows,MSI
+71990,16,LPDDR4,13.3,Intel Core i5,512 GB SSD,Windows,ASUS
+32990,8,LPDDR4X,14.0,Intel Core i3,512 GB SSD,Windows,Infinix
+43990,8,DDR4,14.0,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,MSI
+25990,8,DDR4,14.0,AMD Ryzen 3 Dual Core,256 GB SSD,Windows,acer
+122990,16,DDR4,15.6,Intel Core i9,128 GB SSD,Windows,ASUS
+68990,16,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,acer
+59990,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,acer
+39990,8,DDR4,15.6,AMD Ryzen 5 Quad Core,512 GB SSD,Windows,acer
+37990,8,DDR4,15.6,Intel Core i3,1 TB HDD,Windows,ASUS
+25950,4,DDR4,14.0,Intel Celeron Dual Core,256 GB SSD,Windows,Lenovo
+64999,16,LPDDR4X,14.0,Intel Core i5,512 GB SSD,Windows,realme
+60990,8,DDR4,15.6,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,HP
+36990,8,DDR4,15.6,Intel Core i3,512 GB SSD,Windows,ASUS
+59990,8,LPDDR4X,15.6,Intel Core i5,256 GB SSD,Windows,SAMSUNG
+222990,16,Unified Memory,16.2,M1 Pro,512 GB SSD,Mac OS,APPLE
+235283,16,DDR5,15.6,Intel Core i9,128 GB SSD,Windows,DELL
+38990,8,DDR4,15.6,Intel Core i3,512 GB SSD,Windows,DELL
+67990,16,DDR4,15.6,AMD Ryzen 7 Octa Core,512 GB SSD,Windows,ASUS
+79990,16,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,MSI
+89990,16,LPDDR5,15.6,Intel Core i5,512 GB SSD,Windows,ASUS
+241990,32,DDR5,16.0,Intel Core i9,128 GB SSD,Windows,ASUS
+43490,8,DDR4,14.0,Intel Core i5,512 GB SSD,Windows,ASUS
+46990,8,DDR4,14.0,Intel Core i3,256 GB SSD,Windows,realme
+40990,8,DDR4,15.6,AMD Ryzen 5 Quad Core,512 GB SSD,Windows,Vaio
+94990,8,DDR4,13.3,M1,256 GB SSD,Mac OS,APPLE
+114990,16,DDR4,15.6,Intel Core i7,128 GB SSD,Windows,MSI
+121990,8,Unified Memory,13.3,M2,256 GB SSD,Mac OS,APPLE
+27990,8,DDR4,14.0,Intel Pentium Silver,256 GB SSD,Windows,ASUS
+40190,8,DDR4,15.6,AMD Ryzen 3 Dual Core,512 GB SSD,Windows,DELL
+34990,8,DDR4,15.6,AMD Ryzen 3 Dual Core,512 GB SSD,Windows,Lenovo
+94990,16,LPDDR4X,14.0,Intel Core i7,128 GB SSD,Windows,ASUS
+69990,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,Lenovo
+59990,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,ASUS
+66990,16,DDR4,14.0,Intel Core i5,512 GB SSD,Windows,ASUS
+104990,16,LPDDR4X,13.3,Intel Core i7,512 GB SSD,Windows,ASUS
+54900,8,DDR4,14.0,Intel Core i3,256 GB SSD,Windows,DELL
+136990,16,DDR4,16.0,AMD Ryzen 7 Octa Core,128 GB SSD,Windows,Lenovo
+48184,8,DDR4,15.6,AMD Ryzen 5,512 GB SSD,Windows,DELL
+74990,16,DDR4,14.0,Intel Core i5,512 GB SSD,Windows,ASUS
+60990,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,acer
+49990,8,DDR4,14.0,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,HP
+67990,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,DELL
+58000,8,DDR4,14.0,Intel Core i5,512 GB SSD,Windows,Lenovo
+29990,8,LPDDR4X,14.0,Intel Core i3,256 GB SSD,Windows,Infinix
+114990,16,LPDDR5,13.4,AMD Ryzen 7 Octa Core,128 GB SSD,Windows,ASUS
+33990,8,DDR4,15.6,AMD Ryzen 3 Dual Core,512 GB SSD,Windows,HP
+64990,16,DDR4,15.6,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,ASUS
+79990,16,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,Lenovo
+56990,8,DDR4,15.6,AMD Ryzen 5 Dual Core,512 GB SSD,Windows,ASUS
+81990,16,DDR4,13.3,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,HP
+129990,16,DDR4,15.6,Intel Core i7,128 GB SSD,Windows,MSI
+38990,8,DDR4,15.6,AMD Ryzen 3 Dual Core,1 TB HDD,Windows,DELL
+79990,16,DDR4,15.6,AMD Ryzen 7 Octa Core,"1 TB HDD, 256 GB SSD",Windows,HP
+139990,8,Unified Memory,13.6,M2,512 GB SSD,Mac OS,APPLE
+109990,16,DDR5,17.3,Intel Core i7,128 GB SSD,Windows,ASUS
+154990,16,DDR5,15.6,AMD Ryzen 9 Octa Core,128 GB SSD,Windows,ASUS
+62990,16,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,Lenovo
+47990,8,DDR4,14.0,Intel Core i3,512 GB SSD,Windows,ASUS
+43667,8,DDR4,15.6,AMD Ryzen 3 Quad Core,512 GB SSD,Windows,DELL
+135990,16,DDR5,15.6,AMD Ryzen 7 Octa Core,128 GB SSD,Windows,ASUS
+98990,16,DDR5,15.6,AMD Ryzen 7 Octa Core,512 GB SSD,Windows,ASUS
+46990,16,LPDDR4X,14.0,Intel Core i7,512 GB SSD,Windows,Infinix
+35990,8,DDR4,14.0,Intel Core i3,256 GB SSD,Windows,ASUS
+109990,16,DDR5,17.3,Intel Core i7,128 GB SSD,Windows,ASUS
+139990,8,Unified Memory,13.6,M2,512 GB SSD,Mac OS,APPLE
+74770,8,DDR4,14.0,Intel Core i5,512 GB SSD,Windows,DELL
+40799,8,DDR4,14.0,AMD Ryzen 3 Quad Core,512 GB SSD,Windows,HP
+69490,16,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,ASUS
+39990,8,DDR4,14.0,Intel Core i3,512 GB SSD,Windows,ASUS
+99990,16,LPDDR5,13.3,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,ASUS
+241990,16,Unified Memory,16.2,M1 Pro,128 GB SSD,Mac OS,APPLE
+40990,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,acer
+60390,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,HP
+69990,8,DDR4,15.6,Intel Core i5,"1 TB HDD, 256 GB SSD",Windows,HP
+44990,8,DDR4,14.0,Intel Core i3,256 GB SSD,Windows,ASUS
+44990,8,DDR4,15.6,Intel Core i5,256 GB SSD,Windows,ASUS
+55990,16,DDR4,15.6,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,HP
+74990,16,LPDDR4X,14.0,Intel Core i5,512 GB SSD,Windows,Lenovo
+59990,8,DDR4,15.6,Intel Core i5,128 GB SSD,Windows,ASUS
+222990,16,Unified Memory,16.2,M1 Pro,512 GB SSD,Mac OS,APPLE
+62990,8,DDR4,15.6,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,acer
+58499,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,MSI
+65990,8,DDR4,15.6,Intel Core i5,"1 TB HDD, 256 GB SSD",Windows,Lenovo
+111990,16,DDR5,15.6,Intel Core i7,512 GB SSD,Windows,DELL
+68490,16,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,Lenovo
+83990,8,DDR4,14.0,Intel Core i5,1 TB HDD,Windows,ASUS
+54990,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,acer
+14990,4,LPDDR4,11.6,Intel Celeron Dual Core,512 GB SSD,Chrome,ASUS
+149990,8,DDR4,13.3,M1,128 GB SSD,Mac OS,APPLE
+63090,8,DDR4,13.78,Intel Core i5,512 GB SSD,Windows,DELL
+200000,16,DDR5,15.6,Intel Core i7,128 GB SSD,Windows,MSI
+37390,8,DDR4,15.6,Intel Core i3,256 GB SSD,Windows,Lenovo
+63990,8,LPDDR4X,14.0,Intel Core i5,512 GB SSD,Windows,ASUS
+43090,8,DDR4,14.0,Intel Core i3,512 GB SSD,Windows,DELL
+44700,4,DDR4,15.6,Intel Core i3,256 GB SSD,Windows,Lenovo
+41150,8,DDR4,14.0,Intel Core i3,256 GB SSD,Windows,HP
+33990,8,DDR4,15.6,AMD Ryzen 3 Dual Core,256 GB SSD,Windows,ASUS
+190890,16,DDR5,17.3,Intel Core i7,128 GB SSD,Windows,MSI
+174990,16,LPDDR5,13.4,Intel Core i9,128 GB SSD,Windows,ASUS
+118990,16,DDR4,16.1,AMD Ryzen 7 Octa Core,128 GB SSD,Windows,HP
+63980,16,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,ASUS
+54300,8,DDR4,15.6,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,acer
+36400,8,DDR4,15.6,AMD Ryzen 3 Dual Core,256 GB SSD,Windows,DELL
+28590,4,DDR4,15.6,Intel Core i3,256 GB SSD,Windows,ASUS
+69999,16,DDR4,16.0,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,DELL
+301990,32,DDR5,15.6,Intel Core i9,128 GB SSD,Windows,ASUS
+37000,8,DDR4,15.0,Intel Core i3,256 GB SSD,Windows,Lenovo
+64990,16,DDR4,13.0,Intel Core i5,512 GB SSD,Windows,Lenovo
+42690,8,DDR4,14.96,Intel Core i3,256 GB SSD,Windows,DELL
+140990,16,DDR5,15.6,AMD Ryzen 7 Octa Core,128 GB SSD,Windows,ASUS
+38990,4,DDR4,15.0,Intel Core i3,256 GB SSD,Windows,Lenovo
+128990,16,LPDDR4X,13.5,Intel Core i7,512 GB SSD,Windows,HP
+54999,8,DDR4,15.6,Intel Core i3,512 GB SSD,Windows,acer
+60130,8,DDR4,15.6,Intel Core i5,"1 TB HDD, 256 GB SSD",Windows,acer
+29490,8,DDR4,14.0,Intel Pentium Silver,256 GB SSD,Windows,acer
+72490,8,DDR4,14.0,Intel Core i5,512 GB SSD,Windows,DELL
+73990,16,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,GIGABYTE
+47130,8,DDR4,15.6,Intel Core i5,1 TB HDD,Windows,acer
+55600,8,DDR4,14.0,AMD Ryzen 7 Octa Core,512 GB SSD,Windows,Lenovo
+49690,8,DDR4,14.0,AMD Ryzen 5 Quad Core,512 GB SSD,Windows,DELL
+239990,32,DDR5,16.0,Intel Core i7,128 GB SSD,Windows,ASUS
+73990,16,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,MSI
+52490,8,DDR4,14.0,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,HP
+41990,8,DDR4,15.6,Intel Core i3,512 GB SSD,Windows,HP
+29990,8,DDR4,14.0,Intel Pentium Quad Core,256 GB SSD,Windows,ASUS
+50490,8,DDR4,14.0,Intel Core i5,512 GB SSD,Windows,Nokia
+96490,16,DDR4,15.6,Intel Core i7,"1 TB HDD, 512 GB SSD",Windows,acer
+74990,16,LPDDR4X,14.0,Intel Core i5,512 GB SSD,Windows,MSI
+51990,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,ASUS
+71345,8,DDR4,15.6,AMD Ryzen 5 Hexa Core,"1 TB HDD, 256 GB SSD",Windows,ASUS
+101490,16,DDR4,15.6,Intel Core i7,128 GB SSD,Windows,ASUS
+274990,32,DDR5,15.6,Intel Core i7,128 GB SSD,Windows,MSI
+199990,16,DDR5,15.6,AMD Ryzen 9 Octa Core,128 GB SSD,Windows,ASUS
+41090,8,DDR4,14.0,Intel Core i3,256 GB SSD,Windows,DELL
+50499,8,DDR4,15.6,Intel Core i5,256 GB SSD,Windows,Lenovo
+78950,8,DDR4,16.1,AMD Ryzen 7 Octa Core,512 GB SSD,Windows,HP
+67990,16,LPDDR4X,14.0,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,Lenovo
+187990,16,DDR4,15.6,AMD Ryzen 9 Octa Core,128 GB SSD,Windows,ASUS
+102990,16,DDR4,14.0,Intel Core i7,128 GB SSD,Windows,Lenovo
+35990,4,DDR4,15.6,Intel Core i3,256 GB SSD,DOS,ASUS
+52575,8,DDR4,15.6,AMD Ryzen 5 Quad Core,512 GB SSD,Windows,HP
+50990,8,DDR4,15.6,AMD Ryzen 5 Quad Core,512 GB SSD,Windows,DELL
+60125,16,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,Lenovo
+26490,4,DDR4,11.6,Intel Celeron Dual Core,256 GB SSD,Windows,Lenovo
+80249,8,DDR4,16.1,AMD Ryzen 7 Octa Core,512 GB SSD,Windows,HP
+129999,128,DDR4,15.6,Intel Core i5,"1 TB HDD, 128 GB SSD",Windows,acer
+76990,8,DDR4,14.0,AMD Ryzen 7 Octa Core,128 GB SSD,Windows,ASUS
+36990,8,DDR4,15.6,Intel Core i3,512 GB SSD,Windows,ASUS
+107790,16,DDR4,15.6,Intel Core i7,512 GB SSD,Windows,MSI
+75990,16,DDR4,14.0,Intel Core i5,512 GB SSD,Windows,DELL
+95990,16,LPDDR4X,14.0,Intel Core i5,512 GB SSD,Windows,ASUS
+61999,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,acer
+28990,8,DDR4,14.0,Intel Celeron Dual Core,256 GB SSD,Windows,HP
+54990,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,Lenovo
+56990,16,DDR4,15.6,Intel Core i7,512 GB SSD,Windows,ASUS
+45990,8,DDR4,14.0,Intel Core i5,256 GB SSD,Windows,ASUS
+38216,8,DDR4,14.1,Intel Core i3,512 GB SSD,Windows,ASUS
+79990,8,DDR4,15.6,Intel Core i7,512 GB SSD,Windows,MSI
+43990,4,DDR4,15.6,Intel Core i3,"1 TB HDD, 256 GB SSD",Windows,DELL
+108250,16,DDR4,16.1,AMD Ryzen 7 Octa Core,128 GB SSD,Windows,HP
+28990,4,DDR4,15.6,Intel Core i3,1 TB HDD,Windows,ASUS
+389990,32,DDR5,17.3,Intel Core i9,256 GB SSD,Windows,MSI
+67224,16,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,DELL
+114990,16,DDR4,15.6,AMD Ryzen 7 Octa Core,"1 TB HDD, 256 GB SSD",Windows,acer
+61249,4,DDR4,14.0,Intel Core i5,1 TB HDD,Windows,ASUS
+69990,16,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,HP
+69990,8,DDR4,14.0,AMD Ryzen 5 Hexa Core,512 GB SSD,DOS,Lenovo
+37990,8,DDR4,15.6,AMD Ryzen 3 Dual Core,256 GB SSD,Windows,Lenovo
+36990,8,LPDDR4X,14.0,Intel Core i5,512 GB SSD,Windows,Infinix
+29980,4,DDR4,11.6,Intel Celeron Dual Core,128 GB SSD,Windows,ASUS
+41600,8,DDR4,15.6,AMD Ryzen 3 Dual Core,512 GB SSD,Windows,DELL
+61986,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,ASUS
+38999,8,DDR4,15.6,AMD Ryzen 3 Dual Core,256 GB SSD,Windows,HP
+31990,4,DDR4,14.0,Intel Core i3,256 GB SSD,Windows,Lenovo
+46990,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,ASUS
+37990,8,LPDDR4X,14.0,Intel Core i5,512 GB SSD,Windows,Infinix
+61490,8,DDR4,15.6,AMD Ryzen 5 Hexa Core,"1 TB HDD, 256 GB SSD",Windows,acer
+109990,16,DDR4,15.6,AMD Ryzen 7 Octa Core,128 GB SSD,Windows,HP
+54990,8,DDR4,15.6,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,HP
+50990,8,DDR4,14.0,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,Lenovo
+62190,8,DDR4,15.6,Intel Core i5,1 TB HDD,Windows,MSI
+24390,4,LPDDR4,15.6,Intel Celeron Dual Core,512 GB SSD,Chrome,ASUS
+36990,8,DDR4,15.6,Intel Core i3,1 TB HDD,Windows,Lenovo
+159990,16,DDR4,15.6,AMD Ryzen 7 Octa Core,128 GB SSD,Windows,HP
+34490,4,DDR4,14.0,Intel Core i3,256 GB SSD,Windows,ASUS
+99990,16,DDR4,16.6,AMD Ryzen 9 Octa Core,512 GB SSD,Windows,ASUS
+79990,8,LPDDR4X,13.3,Intel Core i5,512 GB SSD,Windows,ASUS
+41490,8,DDR4,15.6,Intel Core i3,"1 TB HDD, 256 GB SSD",Windows,HP
+206581,16,DDR5,15.6,AMD Ryzen 7 Octa Core,128 GB SSD,Windows,DELL
+59990,8,DDR4,15.6,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,ASUS
+62990,16,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,acer
+194990,16,DDR5,15.6,AMD Ryzen 9 Octa Core,128 GB SSD,Windows,ASUS
+62990,8,DDR4,15.6,AMD Ryzen 5 Hexa Core,"1 TB HDD, 256 GB SSD",Windows,ASUS
+61990,8,DDR4,15.6,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,Lenovo
+105990,16,DDR5,15.6,AMD Ryzen 7 Octa Core,128 GB SSD,Windows,ASUS
+155490,16,DDR5,15.6,Intel Core i7,128 GB SSD,Windows,acer
+19990,4,LPDDR4,14.1,Intel Celeron Dual Core,128 GB SSD,Windows,Ultimus
+33499,4,DDR4,15.6,Intel Core i3,1 TB HDD,Windows,Lenovo
+63990,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,HP
+124990,16,DDR4,15.6,Intel Core i9,128 GB SSD,Windows,acer
+21990,4,DDR4,11.6,Intel Celeron Dual Core,512 GB SSD,Windows,ASUS
+30100,4,DDR4,14.0,Intel Celeron Dual Core,256 GB SSD,Windows,Lenovo
+199990,32,DDR5,17.3,Intel Core i7,128 GB SSD,Windows,HP
+61130,8,DDR4,15.6,Intel Core i5,"1 TB HDD, 256 GB SSD",Windows,acer
+40990,8,DDR4,15.6,Intel Core i3,"1 TB HDD, 256 GB SSD",Windows,Lenovo
+75990,8,DDR4,15.6,Intel Core i5,128 GB SSD,Windows,ASUS
+46890,8,DDR4,15.6,Intel Core i3,512 GB SSD,Windows,HP
+19990,4,DDR4,11.6,Intel Celeron Dual Core,512 GB SSD,Windows,ASUS
+89990,16,DDR4,14.0,Intel Core i7,512 GB SSD,Windows,ASUS
+59790,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,DELL
+125990,16,DDR4,15.6,Intel Core i9,128 GB SSD,Windows,MSI
+249990,32,DDR5,16.0,AMD Ryzen 7 Octa Core,256 GB SSD,Windows,ASUS
+149990,16,DDR5,15.6,AMD Ryzen 7 Octa Core,128 GB SSD,Windows,ASUS
+36990,8,DDR4,15.6,Intel Pentium Quad Core,256 GB SSD,Windows,DELL
+85990,16,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,ASUS
+60990,8,DDR4,14.0,AMD Ryzen 7 Octa Core,512 GB SSD,Windows,HP
+87900,8,DDR5,15.6,Intel Core i5,512 GB SSD,Windows,DELL
+27490,4,DDR4,15.6,AMD Ryzen 3 Dual Core,1 TB HDD,Windows,Lenovo
+28999,8,DDR4,14.0,AMD Ryzen 3 Dual Core,1 TB HDD,Windows,HP
+117990,16,DDR4,15.6,Intel Core i7,"1 TB HDD, 512 GB SSD",Windows,acer
+61497,8,DDR4,15.6,Intel Core i5,"1 TB HDD, 256 GB SSD",Windows,DELL
+70400,8,DDR4,16.1,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,HP
+69000,16,DDR4,14.0,Intel Core i5,512 GB SSD,Windows,Lenovo
+149990,16,DDR5,15.6,AMD Ryzen 7 Octa Core,128 GB SSD,Windows,ASUS
+96579,8,DDR5,16.1,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,HP
+101990,16,DDR4,15.6,Intel Core i7,512 GB SSD,Windows,DELL
+94990,8,DDR5,16.1,AMD Ryzen 7 Octa Core,512 GB SSD,Windows,HP
+314990,32,DDR5,17.3,Intel Core i7,256 GB SSD,Windows,MSI
+46900,8,DDR4,15.0,Intel Core i3,"1 TB HDD, 256 GB SSD",Windows,DELL
+331990,32,DDR5,16.0,Intel Core i9,256 GB SSD,Windows,ASUS
+116490,16,DDR5,15.6,Intel Core i7,128 GB SSD,Windows,DELL
+64590,8,DDR4,15.6,AMD Ryzen 3 Hexa Core,512 GB SSD,Windows,HP
+137990,16,DDR5,15.6,Intel Core i7,128 GB SSD,Windows,DELL
+55690,8,DDR4,14.0,Intel Core i5,512 GB SSD,Windows,DELL
+109990,16,DDR4,15.6,Intel Core i7,512 GB SSD,Windows,Lenovo
+79990,8,DDR4,15.6,Intel Core i7,"1 TB HDD, 256 GB SSD",Windows,ASUS
+130500,16,DDR4,16.0,AMD Ryzen 9 Octa Core,128 GB SSD,Windows,ASUS
+361990,32,DDR5,16.0,AMD Ryzen 9 Octa Core,256 GB SSD,Windows,ASUS
+211990,16,DDR5,16.0,AMD Ryzen 9 Octa Core,128 GB SSD,Windows,ASUS
+39890,4,DDR4,15.0,Intel Core i3,256 GB SSD,Windows,DELL
+139990,16,DDR4,15.6,Intel Core i7,128 GB SSD,Windows,MSI
+99990,16,DDR4,15.6,Intel Core i7,"1 TB HDD, 256 GB SSD",Windows,MSI
+66700,16,DDR4,14.0,Intel Core i5,512 GB SSD,Windows,HP
+68990,8,DDR4,15.6,Intel Core i5,"1 TB HDD, 256 GB SSD",Windows,DELL
+434830,32,DDR4,17.3,Intel Core i9,128 GB SSD,Windows,DELL
+345390,32,DDR4,15.6,Intel Core i9,128 GB SSD,Windows,ALIENWARE
+105822,16,DDR4,15.6,Intel Core i7,512 GB SSD,Windows,HP
+28490,4,LPDDR4X,11.6,Intel Celeron Dual Core,512 GB SSD,Chrome,Lenovo
+66990,16,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,Lenovo
+86999,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,acer
+36990,8,DDR4,15.6,Intel Core i3,256 GB SSD,Windows,ASUS
+23250,4,DDR4,11.6,Intel Celeron Dual Core,256 GB SSD,Windows,Lenovo
+42390,8,DDR4,14.0,Intel Core i3,256 GB SSD,Windows,DELL
+58990,8,DDR4,14.0,Intel Core i5,512 GB SSD,Windows,Lenovo
+110990,16,DDR4,15.6,Intel Core i7,128 GB SSD,Windows,ASUS
+74590,128,DDR4,15.6,Intel Core i5,"1 TB HDD, 128 GB SSD",Windows,acer
+71990,8,DDR4,15.6,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,DELL
+84990,16,DDR4,14.0,Intel Core i5,512 GB SSD,Windows,Lenovo
+119990,16,LPDDR5,13.3,AMD Ryzen 7 Octa Core,128 GB SSD,Windows,ASUS
+214990,32,DDR4,15.6,Intel Core i7,128 GB SSD,Windows,MSI
+48790,8,DDR4,14.0,Intel Core i3,512 GB SSD,Windows,MSI
+76000,16,DDR4,16.0,AMD Ryzen 7 Octa Core,512 GB SSD,Windows,DELL
+224990,32,LPDDR4X,13.4,AMD Ryzen 9 Octa Core,128 GB SSD,Windows,ASUS
+49990,8,LPDDR4X,15.6,Intel Core i3,512 GB SSD,Windows,Infinix
+164990,16,LPDDR5,13.4,Intel Core i7,512 GB SSD,Windows,ASUS
+31490,8,DDR4,15.6,AMD Ryzen 3 Dual Core,256 GB SSD,Windows,HP
+48077,8,DDR4,15.6,Intel Core i3,512 GB SSD,Windows,DELL
+154990,16,DDR4,15.6,AMD Ryzen 9 Octa Core,128 GB SSD,Windows,ASUS
+224990,32,DDR4,15.6,Intel Core i7,128 GB SSD,Windows,ASUS
+44990,8,DDR4,15.6,Intel Core i5,1 TB HDD,Windows,ASUS
+65990,8,DDR4,15.6,Intel Core i5,512 GB SSD,Windows,ASUS
+31990,8,DDR4,14.1,Intel Core i3,1 TB HDD,Windows,ASUS
+38980,8,DDR4,14.0,Intel Core i3,256 GB SSD,Windows,Lenovo
+68990,8,DDR4,15.6,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,HP
+43090,8,DDR4,15.6,Intel Core i3,256 GB SSD,Windows,DELL
+49348,8,DDR4,15.6,Intel Core i3,512 GB SSD,Windows,DELL
+221774,16,DDR5,15.6,Intel Core i7,512 GB SSD,Windows,DELL
+73990,8,DDR4,15.6,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,Lenovo
+77990,16,DDR4,16.0,AMD Ryzen 7 Octa Core,512 GB SSD,Windows,DELL
+214790,16,DDR4,15.6,Intel Core i7,128 GB SSD,Windows,ALIENWARE
+199990,16,DDR4,15.6,Intel Core i7,512 GB SSD,Windows,ALIENWARE
+52414,8,DDR4,14.0,AMD Ryzen 5 Hexa Core,512 GB SSD,Windows,DELL
+179990,16,DDR5,16.0,Intel Core i7,128 GB SSD,Windows,ASUS
+25990,4,LPDDR4,14.0,Intel Celeron Dual Core,512 GB SSD,Chrome,ASUS
+80615,16,DDR4,14.0,Intel Core i5,512 GB SSD,Windows,DELL
+155990,16,DDR5,15.6,AMD Ryzen 7 Octa Core,128 GB SSD,Windows,ASUS
+49990,16,LPDDR4X,14.0,Intel Core i7,512 GB SSD,Windows,Infinix
+157990,16,DDR4,16.0,Intel Core i7,128 GB SSD,Windows,Lenovo
+92990,16,DDR5,15.6,Intel Core i5,512 GB SSD,Windows,ASUS
+171990,16,DDR5,16.0,AMD Ryzen 7 Octa Core,128 GB SSD,Windows,ASUS
+151990,16,LPDDR5,13.4,AMD Ryzen 9 Octa Core,128 GB SSD,Windows,ASUS
+233990,16,LPDDR3,14.0,Intel Core i7,256 GB SSD,Windows,ASUS
+76590,16,DDR5,13.3,Intel Core i5,512 GB SSD,Windows,DELL
+90000,16,DDR4,15.6,AMD Ryzen 7 Octa Core,512 GB SSD,Windows,HP
+23490,4,LPDDR4,11.6,Intel Celeron Dual Core,512 GB SSD,Chrome,ASUS
+125990,16,LPDDR5,14.0,Intel Core i7,512 GB SSD,Windows,ASUS
+50990,8,DDR4,15.6,Intel Core i5,"1 TB HDD, 256 GB SSD",Windows,Lenovo
