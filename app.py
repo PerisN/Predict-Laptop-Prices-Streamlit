@@ -4,7 +4,7 @@ import pandas as pd
 from sklearn.preprocessing import MinMaxScaler, LabelEncoder
 import streamlit as st
 
-df = pd.read_csv('.\Data\cleaned_data2.csv')
+df = pd.read_csv('Data\cleaned_data2.csv')
 
 # Load the model 
 model = joblib.load('model.pkl')
