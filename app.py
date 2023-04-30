@@ -57,9 +57,10 @@ def main():
     
     # Make prediction
     predicted_price = model.predict(input_data)[0]
-    
+    predicted_price1 = np.exp(predicted_price)
+
     # Display the predicted price
-    st.write('Predicted Price: $', predicted_price)
+    st.write('Predicted Price: $', predicted_price1)
 
 if __name__ == '__main__':
     main()
